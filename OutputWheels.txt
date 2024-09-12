@@ -1,0 +1,284 @@
+Please select an account to use:
+1 - Owner/Manager
+2 - Mechanic
+3 - Exit
+>> 1
+Please select an option:
+1 - Inventory
+2 - Manage Customers
+3 - Start Transaction
+4 - Return Bike
+5 - Exit
+>> 1
+Please select an option:
+1 - Add Bike
+2 - Delete Bike
+3 - Edit Bike
+4 - Print Bike Details
+5 - Exit
+>> 1
+Please input the bike number
+>> 1
+Please input the bike type
+>> Med
+Please input the bike size
+>> Med
+Please input the bike make
+>> Toyota
+Please input the bike model
+>> Three
+Please input the charge rate
+>> 2.0
+Please input the deposit price
+>> 60.0
+Please input the bike status (IN, OUT, or REPAIRING)
+>> IN
+Please input any extra details
+>> 
+Please select an option:
+1 - Add Bike
+2 - Delete Bike
+3 - Edit Bike
+4 - Print Bike Details
+5 - Exit
+>> 4
+Please input the number of the bike you wish to print
+>> 1
+Bike #1	 Type: Med	 Make: Toyota	Model: Three
+Charge Rate: $2.0	 Deposit: $60.0	 Status: IN
+Extra Details: 
+Please select an option:
+1 - Add Bike
+2 - Delete Bike
+3 - Edit Bike
+4 - Print Bike Details
+5 - Exit
+>> 3
+Please input the number of the bike you wish to edit
+>> 1
+Please select an option
+1 - Edit Bike number
+2 - Edit Bike type
+3 - Edit Bike size
+4 - Edit Bike make
+5 - Edit Bike model
+6 - Edit Charge rate
+7 - Edit Deposit price
+8 - Edit Bike Status
+9 - Edit Extra Details
+10 - Exit
+>> 9
+Please input the extra details
+>> Easy to use
+Please select an option
+1 - Edit Bike number
+2 - Edit Bike type
+3 - Edit Bike size
+4 - Edit Bike make
+5 - Edit Bike model
+6 - Edit Charge rate
+7 - Edit Deposit price
+8 - Edit Bike Status
+9 - Edit Extra Details
+10 - Exit
+>> 10
+Please select an option:
+1 - Add Bike
+2 - Delete Bike
+3 - Edit Bike
+4 - Print Bike Details
+5 - Exit
+>> 5
+Please select an option:
+1 - Inventory
+2 - Manage Customers
+3 - Start Transaction
+4 - Return Bike
+5 - Exit
+>> 2
+Please select an option:
+1 - Add Customer
+2 - Remove Customer
+3 - Edit Customer
+4 - Print Customer Transactions
+5 - Exit
+1
+Please input the customer's name
+>> Stephanie
+Please input the customer's address
+>> 123 Street
+Please input the customer's telephone number
+>> 123-456-7890
+Please select an option:
+1 - Add Customer
+2 - Remove Customer
+3 - Edit Customer
+4 - Print Customer Transactions
+5 - Exit
+3
+Please input the name of the customer you wish to edit
+>> Stephanie
+Please select an option
+1 - Edit the customer's name
+2 - Edit the customer's address
+3 - Edit the customer's telephone number
+4 - Exit
+>> 3
+Please input the customer's telephone number
+>> 098-765-4321
+Please select an option
+1 - Edit the customer's name
+2 - Edit the customer's address
+3 - Edit the customer's telephone number
+4 - Exit
+>> 4
+Please select an option:
+1 - Add Customer
+2 - Remove Customer
+3 - Edit Customer
+4 - Print Customer Transactions
+5 - Exit
+5
+Please select an option:
+1 - Inventory
+2 - Manage Customers
+3 - Start Transaction
+4 - Return Bike
+5 - Exit
+>> 3
+Please enter the bike number
+1
+Bike #1	 Type: Med	 Make: Toyota	Model: Three
+Charge Rate: $2.0	 Deposit: $60.0	 Status: IN
+Extra Details: Easy to use
+Please enter the hire length in days
+>> 7
+Total cost :7 x $2.0 + $60.0 = $74.0
+Please enter the customer's name
+>> Stephanie
+Enter 1 if the customer paid or 2 to cancel the transaction
+>> 1
+Enter 1 to print a receipt, 2 to add more transactions, or 3 to not print a receipt
+>> 1
+Bike #: 1	 Customer: Stephanie	 cost: $74.0	
+Start Date: 2024/3/8	 End Date: 2024/3/15Is returned: false
+Please select an option:
+1 - Inventory
+2 - Manage Customers
+3 - Start Transaction
+4 - Return Bike
+5 - Exit
+>> 1
+Please select an option:
+1 - Add Bike
+2 - Delete Bike
+3 - Edit Bike
+4 - Print Bike Details
+5 - Exit
+>> 1
+Please input the bike number
+>> 2
+Please input the bike type
+>> Small
+Please input the bike size
+>> Small
+Please input the bike make
+>> Chevy
+Please input the bike model
+>> Two
+Please input the charge rate
+>> 3
+Please input the deposit price
+>> 70
+Please input the bike status (IN, OUT, or REPAIRING)
+>> IN
+Please input any extra details
+>> 
+Please select an option:
+1 - Add Bike
+2 - Delete Bike
+3 - Edit Bike
+4 - Print Bike Details
+5 - Exit
+>> 4
+Please input the number of the bike you wish to print
+>> 2
+Bike #2	 Type: Small	 Make: Chevy	Model: Two
+Charge Rate: $3.0	 Deposit: $70.0	 Status: IN
+Extra Details: 
+Please select an option:
+1 - Add Bike
+2 - Delete Bike
+3 - Edit Bike
+4 - Print Bike Details
+5 - Exit
+>> 5
+Please select an option:
+1 - Inventory
+2 - Manage Customers
+3 - Start Transaction
+4 - Return Bike
+5 - Exit
+>> 3
+Please enter the bike number
+2
+Bike #2	 Type: Small	 Make: Chevy	Model: Two
+Charge Rate: $3.0	 Deposit: $70.0	 Status: IN
+Extra Details: 
+Please enter the hire length in days
+>> 7
+Total cost :7 x $3.0 + $70.0 = $91.0
+Please enter the customer's name
+>> Stephanie
+Enter 1 if the customer paid or 2 to cancel the transaction
+>> 1
+Enter 1 to print a receipt, 2 to add more transactions, or 3 to not print a receipt
+>> 1
+Bike #: 1	 Customer: Stephanie	 cost: $74.0	
+Start Date: 2024/3/8	 End Date: 2024/3/15Is returned: false
+Bike #: 2	 Customer: Stephanie	 cost: $91.0	
+Start Date: 2024/3/8	 End Date: 2024/3/15Is returned: false
+Please select an option:
+1 - Inventory
+2 - Manage Customers
+3 - Start Transaction
+4 - Return Bike
+5 - Exit
+>> 4
+Please input the number of the bike you are returning
+>> 2
+Please select an option:
+1 - Inventory
+2 - Manage Customers
+3 - Start Transaction
+4 - Return Bike
+5 - Exit
+>> 1
+Please select an option:
+1 - Add Bike
+2 - Delete Bike
+3 - Edit Bike
+4 - Print Bike Details
+5 - Exit
+>> 2
+Please input the number of the bike you wish to delete
+>> 2
+Please select an option:
+1 - Add Bike
+2 - Delete Bike
+3 - Edit Bike
+4 - Print Bike Details
+5 - Exit
+>> 5
+Please select an option:
+1 - Inventory
+2 - Manage Customers
+3 - Start Transaction
+4 - Return Bike
+5 - Exit
+>> 5
+Please select an account to use:
+1 - Owner/Manager
+2 - Mechanic
+3 - Exit
+>> 3
